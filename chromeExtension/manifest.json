@@ -1,0 +1,17 @@
+{
+    "manifest_version" : 2,
+    "name" : "KARAKILIÇ",
+    "version" : "1.0",
+    "description" : "KARAKILIÇ PROJECT",
+    "author" : "Ali Karakılıç",
+    "icons" : {
+        "48" : "icons48.png"
+
+        
+    },
+    "browser_action" : {
+        "default_icon" : "icons48.png",
+        "default_popup" : "popup.html"
+    }
+    
+}
